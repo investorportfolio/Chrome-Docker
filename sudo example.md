@@ -1,5 +1,6 @@
 Answers from Gemini:
 Here is the step-by-step logical deduction to solve the Sudoku puzzle.
+https://www.tutorialspoint.com/compilers/online-linux-terminal.htm
 
 ### Initial Analysis
 
